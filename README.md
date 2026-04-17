@@ -1,4 +1,4 @@
-# GameHub
+# ArgenPlay
 
 Plataforma web de videojuegos desarrollada con React que permite explorar, buscar y filtrar juegos.
 
