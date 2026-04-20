@@ -14,3 +14,7 @@
   --color-ap-brand: #4fb4ff;
   --color-ap-brand-strong: #1f91e6;
 }
+
+body {
+  margin: 0;
+}
