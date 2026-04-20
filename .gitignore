@@ -11,13 +11,6 @@ node_modules
 dist
 dist-ssr
 *.local
-.env
-.env.*
-!.env.example
-coverage/
-*.tsbuildinfo
-Thumbs.db
-Desktop.ini
 
 # Editor directories and files
 .vscode/*
