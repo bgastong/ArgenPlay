@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&family=Orbitron:wght@500;700;800&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", sans-serif;
+  --font-gaming: "Orbitron", sans-serif;
+
+  --color-ap-bg: #081521;
+  --color-ap-surface: #102335;
+  --color-ap-surface-2: #18324a;
+  --color-ap-border: #2c4e69;
+  --color-ap-text: #eaf4ff;
+  --color-ap-muted: #9ab4c9;
+  --color-ap-brand: #4fb4ff;
+  --color-ap-brand-strong: #1f91e6;
+}
